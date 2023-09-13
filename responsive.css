@@ -1,0 +1,30 @@
+.navbar-toggler:focus{
+    outline: unset;
+    border: unset;
+    box-shadow: none;
+}
+
+@media (max-width:768px){
+
+    html{
+        font-size: 75%;
+    }
+
+    .about-content{
+        padding-top: 2rem;
+    }
+    .header-content {
+        padding-top:80px;
+    }
+}
+
+@media (max-width:992px) {
+    .navbar-nav {
+        text-align: center;
+        background-color: var(--white-color);
+    }
+
+    .header-content {
+        padding-top:80px;
+    }   
+}
