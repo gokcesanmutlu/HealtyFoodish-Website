@@ -14,7 +14,7 @@
     <li>CSS</li>
     <li>BOOSTRAP</li>
   </ul>
-  <!-- <p>You can reach to Website, when you are click <a href="https://healtyfoodish.netlify.app/">HERE</a>.</p> -->
+  <p>You can reach to Website, when you are click <a href="https://healtyfoodish.netlify.app/">HERE</a>.</p>
 
 </body>
 </html>
