@@ -19,4 +19,4 @@
 </body>
 </html>
 
-<!-- Screenshot ![HealtyFoodishprojectgif](.gif) -->
+Screenshot ![HealthyFoodishprojectgif](healthyfood.gif)
